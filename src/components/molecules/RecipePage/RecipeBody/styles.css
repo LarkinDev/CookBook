@@ -1,0 +1,22 @@
+.ingr:hover {
+  background-color: rgb(192, 192, 236);
+}
+h5.ant-typography {
+  font-size: 20px;
+  color: black;
+  margin-left: 14rem;
+}
+.ingr {
+  width: 50rem;
+}
+.ant-typography {
+  font-size: 22px;
+  color: black;
+  line-height: 2;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.nf {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
